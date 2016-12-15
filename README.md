@@ -1,7 +1,7 @@
 # NEB
 
 ## Background
-This is a very basic python implementation of Nudge-Elastic Band in python based on the paper: [*"Improved tangent estimate in the nudged elastic band method for finding minimum energy paths and saddle points"*](http://dx.doi.org/10.1063/1.1323224) by Henkelmann et al.
+This is a very basic python implementation of Nudged-Elastic Band in python based on the paper: [*"Improved tangent estimate in the nudged elastic band method for finding minimum energy paths and saddle points"*](http://dx.doi.org/10.1063/1.1323224) by Henkelmann et al.
 
 ## Usage
 Usage should be quite straightforward with the additional python classes included but please check the `example.py` script in the root directory for a use-case of the [3-atom LEPS potential](http://theory.cm.utexas.edu/henkelman/pubs/jonsson98_385.pdf).

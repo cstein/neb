@@ -3,7 +3,7 @@ import math
 import numpy
 
 class NEB(object):
-    """ A Nudge Elastic Band implementation
+    """ A Nudged Elastic Band implementation
 
         This NEB implementation is based on http://dx.doi.org/10.1063/1.1323224
         by Henkelman et al.

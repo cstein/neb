@@ -69,14 +69,12 @@ def idamax(a):
 
     return idx
 
-def idamax(a):
-    """ Returns the index of maximum absolute value (positive or negative)
+def idamin(a):
+    """ Returns the index of minimum absolute value (positive or negative)
         in the input array a.
 
-        Note: Loosely based of a subroutine in GAMESS with the same name
-
         Arguments:
-        a -- a numpy array where we are to find the maximum
+        a -- a numpy array where we are to find the minimum
              value in (either positive or negative)
 
         Returns:
